@@ -11,8 +11,8 @@ time zone offset.
 
 var current="Pacific Roleplay Is Finishing Development!";   //-->enter what you want the script to display when the target date and time are reached, limit to 20 characters
 var year=2022;    //-->Enter the count down target date YEAR
-var month=8;      //-->Enter the count down target date MONTH
-var day=5;       //-->Enter the count down target date DAY
+var month=9;      //-->Enter the count down target date MONTH
+var day=14;       //-->Enter the count down target date DAY
 var hour=16;      //-->Enter the count down target date HOUR (24 hour clock)
 var minute=00;    //-->Enter the count down target date MINUTE
 var tz=-5;        //-->Offset for your timezone in hours from UTC (see http://wwp.greenwichmeantime.com/index.htm to find the timezone offset for your location)
